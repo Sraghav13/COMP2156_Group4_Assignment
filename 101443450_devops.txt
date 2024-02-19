@@ -1,4 +1,4 @@
 The COMP2156 DevOps course addresses a broad spectrum of subjects, such as continuous integration, continuous delivery, infrastructure as code, containerization, configuration management, monitoring, and collaboration tools.
 Students acquire in-demand skills valued by employers in software development and IT operations, empowering them to proficiently oversee and automate the software development process.
 Leveraging DevOps practices effectively ensures a streamlined process for deploying code to production servers, implementing hot-fixes, identifying errors preemptively, and maintaining transparency and communication among all teams. 
-Viewing the software development lifecycle from the perspective of a DevOps Engineer enhances developers' knowledge and expertise.
+Examining the software development lifecycle through the lens of a DevOps Engineer enriches developers' understanding and proficiency.
